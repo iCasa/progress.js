@@ -179,3 +179,7 @@
 .progressjs-theme-blackRadiusInputs .progressjs-percent {
     display: none;
 }
+
+.progressjs-progress.failed .progressjs-inner {
+    background-color: #f00;
+}
